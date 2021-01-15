@@ -3,7 +3,6 @@ matplotlib==3.1.0
 streamlit==0.73.1
 tensorflow-cpu
 cvlib==0.2.5
-opencv-python
+opencv_python==4.3.0.36
 numpy==1.16.4
 Pillow==8.1.0
-ev
