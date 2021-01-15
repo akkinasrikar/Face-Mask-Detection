@@ -6,3 +6,6 @@ cvlib==0.2.5
 opencv_python==4.3.0.36
 numpy==1.16.4
 Pillow==8.1.0
+!pip install opencv-python
+!apt update && apt install -y libsm6 libxext6
+!apt-get install -y libxrender-dev
